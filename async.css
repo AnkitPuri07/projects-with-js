@@ -1,0 +1,18 @@
+button{
+    height: 40px;
+    width: 70px;
+    border-radius: 30px;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: aquamarine;
+    border: black 3px solid;
+}
+button:hover{
+  background-color: aqua;
+  cursor: pointer;
+  transform: scale(1.1); 
+
+}
+*{
+    font-family:cursive;
+}
